@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name":"Thomas Beaman",
+    "occupation":"Full Stack Developer",
+    "description":"I am a driven developer with a passion of growing my development and problem solving skills",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Thank you for taking a look at portfolio, if you'd like to get in contact with me submit your info below:",
+    "email": "thoughtsinflight@aol.com",
+    "phone": "704-267-4605",
+    "address":{
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/1J67GxvbptuQguexGCojOjD9ovGXHeoFlnyPoXAvI9og/edit",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/thomas.beaman.10",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Thoughtsinflite",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/thomas-beaman-3a97aba8/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/thoughtsinflight",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"These are the areas and confidence levels I have in certain aspects of development",
+    "education":[
+      {
+        "school":"UNCC",
+        "degree":"Full Stack Developer Cert",
+        "graduated":"January 2020",
+        "description":"A fast pace enviroment that taught me a lot about coding and development, and "
+      }
+    ],
+    "work":[
+      {
+        "company":"Maybe Yours?",
+        "title":"Best Choice You've ever made ",
+        "years":"Yesterday - Forever",
+        "description":"Learned very quickly, formed excellent/professional relationships with fellow team members, consistantly made employers happy with developer progress"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"75%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"75%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScirpt",
+        "level":"75%"
+      },
+      {
+        "name":"JQuery",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Habbit",
+        "category":"A good habit forming app (Final Group Project)(Over Development)",
+        "image":"Habbit.png",
+        "url":"https://young-beach-69424.herokuapp.com/my-pet"
+      },
+      {
+        "title":"Password Generator",
+        "category":"Generating passwords in javascript with a set of user parameters",
+        "image":"PWG.png",
+        "url":"https://thoughtsinflight.github.io/passwordGenerator/"
+      },
+      {
+        "title":"Code Quiz",
+        "category":"Using javascript to manipulate DOM elements",
+        "image":"CQ.png",
+        "url":"https://thoughtsinflight.github.io/codequiz/index.html"
+      },
+      {
+        "title":"Axe Dungeon",
+        "category":"(MVP Only) A dungeon crawling app using API (First Group Project)",
+        "image":"AD.png",
+        "url":"https://cbush2014.github.io/Project-01/"
+      },
+      {
+        "title":"Burger App",
+        "category":"",
+        "image":"BA.png",
+        "url":"https://serene-sea-76269.herokuapp.com/"
+      },
+      {
+        "title":"Note Taker App",
+        "category":"",
+        "image":"NTA.png",
+        "url":"https://serene-sea-76269.herokuapp.com/"
+      },
+      {
+        "title":"Budget Tracker App",
+        "category":"A PWA app that tracks budget on and offline",
+        "image":"BTA.png",
+        "url":"https://blooming-lowlands-00220.herokuapp.com/"
+      },
+      {
+        "title":"MealsByDesign",
+        "category":"Meal prep app (Second Group Project)",
+        "image":"MBD.jpg",
+        "url":"https://mealsbydesign.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
